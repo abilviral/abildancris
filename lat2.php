@@ -1,0 +1,10 @@
+<?php
+$x=100;
+$y=150;
+if($x>$y)
+    echo("x>y");
+elseif($y>$x)
+    echo("y>x");
+else
+    echo("x=y");
+?>
